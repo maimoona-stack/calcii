@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class SimpleCalculator {
-    public static void main(String[] args) {
+class SimpleCalculator {
+     static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter first number: ");
